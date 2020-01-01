@@ -7,27 +7,27 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		E2A84DB323B88F5100983DD0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2A84DB223B88F5100983DD0 /* AppDelegate.swift */; };
-		E2A84DB523B88F5100983DD0 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2A84DB423B88F5100983DD0 /* SceneDelegate.swift */; };
-		E2A84DB723B88F5100983DD0 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2A84DB623B88F5100983DD0 /* ContentView.swift */; };
-		E2A84DB923B88F5200983DD0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E2A84DB823B88F5200983DD0 /* Assets.xcassets */; };
-		E2A84DBC23B88F5200983DD0 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E2A84DBB23B88F5200983DD0 /* Preview Assets.xcassets */; };
-		E2A84DBF23B88F5200983DD0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E2A84DBD23B88F5200983DD0 /* LaunchScreen.storyboard */; };
+		E253DB3623BC8F600041F2A8 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E253DB3523BC8F600041F2A8 /* AppDelegate.swift */; };
+		E253DB3823BC8F600041F2A8 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E253DB3723BC8F600041F2A8 /* SceneDelegate.swift */; };
+		E253DB3A23BC8F600041F2A8 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E253DB3923BC8F600041F2A8 /* ContentView.swift */; };
+		E253DB3C23BC8F650041F2A8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E253DB3B23BC8F650041F2A8 /* Assets.xcassets */; };
+		E253DB3F23BC8F650041F2A8 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E253DB3E23BC8F650041F2A8 /* Preview Assets.xcassets */; };
+		E253DB4223BC8F650041F2A8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E253DB4023BC8F650041F2A8 /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		E2A84DAF23B88F5100983DD0 /* DayOneSwiftUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DayOneSwiftUI.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		E2A84DB223B88F5100983DD0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		E2A84DB423B88F5100983DD0 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		E2A84DB623B88F5100983DD0 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		E2A84DB823B88F5200983DD0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		E2A84DBB23B88F5200983DD0 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		E2A84DBE23B88F5200983DD0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		E2A84DC023B88F5200983DD0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E253DB3223BC8F600041F2A8 /* GuessTheFlag.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GuessTheFlag.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		E253DB3523BC8F600041F2A8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		E253DB3723BC8F600041F2A8 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		E253DB3923BC8F600041F2A8 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		E253DB3B23BC8F650041F2A8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		E253DB3E23BC8F650041F2A8 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		E253DB4123BC8F650041F2A8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		E253DB4323BC8F650041F2A8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		E2A84DAC23B88F5100983DD0 /* Frameworks */ = {
+		E253DB2F23BC8F600041F2A8 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -37,40 +37,40 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		E2A84DA623B88F5100983DD0 = {
+		E253DB2923BC8F600041F2A8 = {
 			isa = PBXGroup;
 			children = (
-				E2A84DB123B88F5100983DD0 /* DayOneSwiftUI */,
-				E2A84DB023B88F5100983DD0 /* Products */,
+				E253DB3423BC8F600041F2A8 /* GuessTheFlag */,
+				E253DB3323BC8F600041F2A8 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		E2A84DB023B88F5100983DD0 /* Products */ = {
+		E253DB3323BC8F600041F2A8 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				E2A84DAF23B88F5100983DD0 /* DayOneSwiftUI.app */,
+				E253DB3223BC8F600041F2A8 /* GuessTheFlag.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		E2A84DB123B88F5100983DD0 /* DayOneSwiftUI */ = {
+		E253DB3423BC8F600041F2A8 /* GuessTheFlag */ = {
 			isa = PBXGroup;
 			children = (
-				E2A84DB223B88F5100983DD0 /* AppDelegate.swift */,
-				E2A84DB423B88F5100983DD0 /* SceneDelegate.swift */,
-				E2A84DB623B88F5100983DD0 /* ContentView.swift */,
-				E2A84DB823B88F5200983DD0 /* Assets.xcassets */,
-				E2A84DBD23B88F5200983DD0 /* LaunchScreen.storyboard */,
-				E2A84DC023B88F5200983DD0 /* Info.plist */,
-				E2A84DBA23B88F5200983DD0 /* Preview Content */,
+				E253DB3523BC8F600041F2A8 /* AppDelegate.swift */,
+				E253DB3723BC8F600041F2A8 /* SceneDelegate.swift */,
+				E253DB3923BC8F600041F2A8 /* ContentView.swift */,
+				E253DB3B23BC8F650041F2A8 /* Assets.xcassets */,
+				E253DB4023BC8F650041F2A8 /* LaunchScreen.storyboard */,
+				E253DB4323BC8F650041F2A8 /* Info.plist */,
+				E253DB3D23BC8F650041F2A8 /* Preview Content */,
 			);
-			path = DayOneSwiftUI;
+			path = GuessTheFlag;
 			sourceTree = "<group>";
 		};
-		E2A84DBA23B88F5200983DD0 /* Preview Content */ = {
+		E253DB3D23BC8F650041F2A8 /* Preview Content */ = {
 			isa = PBXGroup;
 			children = (
-				E2A84DBB23B88F5200983DD0 /* Preview Assets.xcassets */,
+				E253DB3E23BC8F650041F2A8 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
 			sourceTree = "<group>";
@@ -78,39 +78,39 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		E2A84DAE23B88F5100983DD0 /* DayOneSwiftUI */ = {
+		E253DB3123BC8F600041F2A8 /* GuessTheFlag */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = E2A84DC323B88F5200983DD0 /* Build configuration list for PBXNativeTarget "DayOneSwiftUI" */;
+			buildConfigurationList = E253DB4623BC8F650041F2A8 /* Build configuration list for PBXNativeTarget "GuessTheFlag" */;
 			buildPhases = (
-				E2A84DAB23B88F5100983DD0 /* Sources */,
-				E2A84DAC23B88F5100983DD0 /* Frameworks */,
-				E2A84DAD23B88F5100983DD0 /* Resources */,
+				E253DB2E23BC8F600041F2A8 /* Sources */,
+				E253DB2F23BC8F600041F2A8 /* Frameworks */,
+				E253DB3023BC8F600041F2A8 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = DayOneSwiftUI;
-			productName = DayOneSwiftUI;
-			productReference = E2A84DAF23B88F5100983DD0 /* DayOneSwiftUI.app */;
+			name = GuessTheFlag;
+			productName = GuessTheFlag;
+			productReference = E253DB3223BC8F600041F2A8 /* GuessTheFlag.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		E2A84DA723B88F5100983DD0 /* Project object */ = {
+		E253DB2A23BC8F600041F2A8 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 1130;
 				LastUpgradeCheck = 1130;
 				ORGANIZATIONNAME = "Jules Lee";
 				TargetAttributes = {
-					E2A84DAE23B88F5100983DD0 = {
+					E253DB3123BC8F600041F2A8 = {
 						CreatedOnToolsVersion = 11.3;
 					};
 				};
 			};
-			buildConfigurationList = E2A84DAA23B88F5100983DD0 /* Build configuration list for PBXProject "DayOneSwiftUI" */;
+			buildConfigurationList = E253DB2D23BC8F600041F2A8 /* Build configuration list for PBXProject "GuessTheFlag" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -118,47 +118,47 @@
 				en,
 				Base,
 			);
-			mainGroup = E2A84DA623B88F5100983DD0;
-			productRefGroup = E2A84DB023B88F5100983DD0 /* Products */;
+			mainGroup = E253DB2923BC8F600041F2A8;
+			productRefGroup = E253DB3323BC8F600041F2A8 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				E2A84DAE23B88F5100983DD0 /* DayOneSwiftUI */,
+				E253DB3123BC8F600041F2A8 /* GuessTheFlag */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		E2A84DAD23B88F5100983DD0 /* Resources */ = {
+		E253DB3023BC8F600041F2A8 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E2A84DBF23B88F5200983DD0 /* LaunchScreen.storyboard in Resources */,
-				E2A84DBC23B88F5200983DD0 /* Preview Assets.xcassets in Resources */,
-				E2A84DB923B88F5200983DD0 /* Assets.xcassets in Resources */,
+				E253DB4223BC8F650041F2A8 /* LaunchScreen.storyboard in Resources */,
+				E253DB3F23BC8F650041F2A8 /* Preview Assets.xcassets in Resources */,
+				E253DB3C23BC8F650041F2A8 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		E2A84DAB23B88F5100983DD0 /* Sources */ = {
+		E253DB2E23BC8F600041F2A8 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E2A84DB323B88F5100983DD0 /* AppDelegate.swift in Sources */,
-				E2A84DB523B88F5100983DD0 /* SceneDelegate.swift in Sources */,
-				E2A84DB723B88F5100983DD0 /* ContentView.swift in Sources */,
+				E253DB3623BC8F600041F2A8 /* AppDelegate.swift in Sources */,
+				E253DB3823BC8F600041F2A8 /* SceneDelegate.swift in Sources */,
+				E253DB3A23BC8F600041F2A8 /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		E2A84DBD23B88F5200983DD0 /* LaunchScreen.storyboard */ = {
+		E253DB4023BC8F650041F2A8 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				E2A84DBE23B88F5200983DD0 /* Base */,
+				E253DB4123BC8F650041F2A8 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -166,7 +166,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		E2A84DC123B88F5200983DD0 /* Debug */ = {
+		E253DB4423BC8F650041F2A8 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -226,7 +226,7 @@
 			};
 			name = Debug;
 		};
-		E2A84DC223B88F5200983DD0 /* Release */ = {
+		E253DB4523BC8F650041F2A8 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -280,40 +280,40 @@
 			};
 			name = Release;
 		};
-		E2A84DC423B88F5200983DD0 /* Debug */ = {
+		E253DB4723BC8F650041F2A8 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_ASSET_PATHS = "\"DayOneSwiftUI/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"GuessTheFlag/Preview Content\"";
 				DEVELOPMENT_TEAM = ZPFY37265E;
 				ENABLE_PREVIEWS = YES;
-				INFOPLIST_FILE = DayOneSwiftUI/Info.plist;
+				INFOPLIST_FILE = GuessTheFlag/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.iosjunkie.DayOneSwiftUI;
+				PRODUCT_BUNDLE_IDENTIFIER = com.iosjunkie.GuessTheFlag;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		E2A84DC523B88F5200983DD0 /* Release */ = {
+		E253DB4823BC8F650041F2A8 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_ASSET_PATHS = "\"DayOneSwiftUI/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"GuessTheFlag/Preview Content\"";
 				DEVELOPMENT_TEAM = ZPFY37265E;
 				ENABLE_PREVIEWS = YES;
-				INFOPLIST_FILE = DayOneSwiftUI/Info.plist;
+				INFOPLIST_FILE = GuessTheFlag/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.iosjunkie.DayOneSwiftUI;
+				PRODUCT_BUNDLE_IDENTIFIER = com.iosjunkie.GuessTheFlag;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -323,25 +323,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		E2A84DAA23B88F5100983DD0 /* Build configuration list for PBXProject "DayOneSwiftUI" */ = {
+		E253DB2D23BC8F600041F2A8 /* Build configuration list for PBXProject "GuessTheFlag" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				E2A84DC123B88F5200983DD0 /* Debug */,
-				E2A84DC223B88F5200983DD0 /* Release */,
+				E253DB4423BC8F650041F2A8 /* Debug */,
+				E253DB4523BC8F650041F2A8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		E2A84DC323B88F5200983DD0 /* Build configuration list for PBXNativeTarget "DayOneSwiftUI" */ = {
+		E253DB4623BC8F650041F2A8 /* Build configuration list for PBXNativeTarget "GuessTheFlag" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				E2A84DC423B88F5200983DD0 /* Debug */,
-				E2A84DC523B88F5200983DD0 /* Release */,
+				E253DB4723BC8F650041F2A8 /* Debug */,
+				E253DB4823BC8F650041F2A8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = E2A84DA723B88F5100983DD0 /* Project object */;
+	rootObject = E253DB2A23BC8F600041F2A8 /* Project object */;
 }

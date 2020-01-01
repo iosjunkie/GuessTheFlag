@@ -1,9 +1,9 @@
 //
 //  AppDelegate.swift
-//  DayOneSwiftUI
+//  GuessTheFlag
 //
-//  Created by Jules Lee on 12/29/19.
-//  Copyright © 2019 Jules Lee. All rights reserved.
+//  Created by Jules Lee on 1/1/20.
+//  Copyright © 2020 Jules Lee. All rights reserved.
 //
 
 import UIKit
