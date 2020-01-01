@@ -16,3 +16,4 @@ The first project of 100 days of Swiftui. It is called Guess the flag
 - ZStack puts a view on top of each other
 - `.shuffled()` shuffles an array
 - Use of animation to rotate and fade
+  - Grabbed some animation ideas from CypherPoet's github
