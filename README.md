@@ -17,3 +17,4 @@ The first project of 100 days of Swiftui. It is called Guess the flag
 - `.shuffled()` shuffles an array
 - Use of animation to rotate and fade
   - Grabbed some animation ideas from CypherPoet's github
+- Use of animation to shake a button
